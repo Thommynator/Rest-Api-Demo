@@ -1,4 +1,4 @@
-package thommynator.restapidemo.entities;
+package thommynator.restapidemo.SimpleApiDemo.entities;
 
 import lombok.Data;
 
